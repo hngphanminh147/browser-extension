@@ -1,0 +1,9 @@
+{
+    "name": "Extension Demo",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+      "default_title": "Extension Demo",
+      "default_popup": "index.html"
+    }
+  }
